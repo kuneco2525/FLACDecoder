@@ -1,0 +1,21 @@
+﻿Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FLACDecoder", "FLACDecoder.csproj", "{5F6400CF-F22A-47AB-84A2-92DAC18DE0CC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5F6400CF-F22A-47AB-84A2-92DAC18DE0CC}.Debug|x64.ActiveCfg = Debug|x64
+		{5F6400CF-F22A-47AB-84A2-92DAC18DE0CC}.Debug|x64.Build.0 = Debug|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6A87D2DE-E356-4122-85AB-CE3378AAEC86}
+	EndGlobalSection
+EndGlobal
